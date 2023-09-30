@@ -1,1 +1,2 @@
 # KryptexCount
+Script created to calculate amount of gained money by certain user. It works by shooting a screenshot of field around coursor, that is moving from one table to another. Program recognizing text on the screenshot and transforms it to the text, then to float number and then sums up. This thing was created when there were no amount counter for certain mining machine on kryptex to help me and my friend solve the problem of how much each other of us has earned.
